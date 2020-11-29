@@ -13,11 +13,4 @@ cd SteadFast
 npm intall
 ```
 
-## Steps for read-only access
-To start the server, run the following
-
-```python
-npm run dev
-```
-Open http://localhost:4000/graphql and take a look around.
 
