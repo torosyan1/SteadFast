@@ -11,6 +11,7 @@ cd SteadFast
 
 ```bash
 npm intall
+npm run dev
 ```
 
 
