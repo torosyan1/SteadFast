@@ -1,0 +1,12 @@
+{
+  "presets": [ "@babel/preset-env"],
+  "ignore": ["**/node_modules"],
+  "plugins" : [
+    ["@babel/transform-runtime",
+      {
+        "helpers": false,
+        "regenerator": true
+      }
+    ]
+  ]
+}
